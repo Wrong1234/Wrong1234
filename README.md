@@ -4,6 +4,9 @@
 **Wrong1234/Wrong1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Wrong1234&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wrong1234&layout=compact&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
