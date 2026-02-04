@@ -201,9 +201,9 @@
 
 | Platform | Handle | Highest Rating | Problems Solved |
 |----------|--------|----------------|-----------------|
-| **CodeChef** | [atom_123](https://codechef.com/users/atom_123) | 1601 ⭐⭐⭐ (3-Star) | 500+ |
-| **Codeforces** | [EpicFailure404](https://codeforces.com/profile/EpicFailure404) | 1182 | 400+ |
-| **LeetCode** | [MaHaBur__](https://leetcode.com/MaHaBur__) | 1464 | 400+ |
+| **CodeChef** | [atom_123](https://codechef.com/users/atom_123) | 1601 ⭐⭐⭐ (3-Star) | 200+ |
+| **Codeforces** | [EpicFailure404](https://codeforces.com/profile/EpicFailure404) | 1182 | 1000+ |
+| **LeetCode** | [MaHaBur__](https://leetcode.com/MaHaBur__) | 1464 | 100+ |
 
 </div>
 
